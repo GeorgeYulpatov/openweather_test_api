@@ -25,7 +25,7 @@
 
     ```bash
     git clone https://github.com/GeorgeYulpatov/openweather_test_api.git
-    cd openweatherAPI
+    cd openweather_test_api
     ```
 
 2. Создайте виртуальное окружение и активируйте его:
